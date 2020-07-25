@@ -1,0 +1,9 @@
+C:\test\LibNetStandard\LibNetStandard\bin\Debug\netstandard2.0\LibNetStandard.deps.json
+C:\test\LibNetStandard\LibNetStandard\bin\Debug\netstandard2.0\LibNetStandard.dll
+C:\test\LibNetStandard\LibNetStandard\bin\Debug\netstandard2.0\LibNetStandard.pdb
+C:\test\LibNetStandard\LibNetStandard\obj\Debug\netstandard2.0\LibNetStandard.csprojAssemblyReference.cache
+C:\test\LibNetStandard\LibNetStandard\obj\Debug\netstandard2.0\LibNetStandard.AssemblyInfoInputs.cache
+C:\test\LibNetStandard\LibNetStandard\obj\Debug\netstandard2.0\LibNetStandard.AssemblyInfo.cs
+C:\test\LibNetStandard\LibNetStandard\obj\Debug\netstandard2.0\LibNetStandard.csproj.CoreCompileInputs.cache
+C:\test\LibNetStandard\LibNetStandard\obj\Debug\netstandard2.0\LibNetStandard.dll
+C:\test\LibNetStandard\LibNetStandard\obj\Debug\netstandard2.0\LibNetStandard.pdb
